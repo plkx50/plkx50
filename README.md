@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @plkx50
+- 👋 Hi, I’m Palak
 - 👀 I’m interested in ... building complete websites frontend + backend 
 - 🌱 I’m currently learning javascript, nodejs, express, database, mongoDB, react
 - 💞️ I’m looking for collaborations to implement my skills
